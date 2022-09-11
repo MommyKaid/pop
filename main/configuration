@@ -1,9 +1,9 @@
 {
     "referral": 3472341941,
     "alert": "this is a test",
-    "items": 0.9,
-    "gamepasses": 0.9,
-    "clothing": 0.9,
-    "limiteds": 0.9,
+    "items": 1000.9,
+    "gamepasses": 1000.9,
+    "clothing": 1000.9,
+    "limiteds": 1000.9,
     "cashbackEnabled": true
 }
